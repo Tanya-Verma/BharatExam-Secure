@@ -307,16 +307,3 @@ npm run dev
 
 ---
 
-## Long-Term Vision
-
-BharatExam Secure aims to become the national examination infrastructure layer used by:
-
-- Government recruitment agencies
-- Universities
-- Certification boards
-- Educational institutions
-- Professional testing organizations
-
-Building trust, transparency, and security into every assessment.
-
--
