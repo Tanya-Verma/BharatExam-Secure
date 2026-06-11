@@ -2,7 +2,7 @@
 
 > Secure Examination Infrastructure for India
 
-BharatExam Secure is a cloud-based examination security and assessment platform designed to eliminate paper leaks, reduce impersonation, improve transparency, and modernize the examination process for government agencies, universities, recruitment boards, and educational institutions.
+`BharatExam Secure is a cloud-based examination security and assessment platform designed to eliminate paper leaks, reduce impersonation, improve transparency, and modernize the examination process for government agencies, universities, recruitment boards, and educational institutions.`
 
 ---
 
